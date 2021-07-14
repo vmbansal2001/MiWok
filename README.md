@@ -1,5 +1,4 @@
 # Miwok App
-
 This app displays lists of vocabulary words for the user to learn the Miwok language.
 It displays some commonly used Numbers, Phrases, Colors.
 It was built to learn about the Android Developement but the app is fully functional and can be used safely.
