@@ -1,5 +1,4 @@
-Miwok App
-===================================
+# Miwok App
 
 This app displays lists of vocabulary words for the user to learn the Miwok language.
 It displays some commonly used Numbers, Phrases, Colors.
