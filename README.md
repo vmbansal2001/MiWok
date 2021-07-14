@@ -10,10 +10,10 @@ It was built to learn about the Android Developement but the app is fully functi
 # App Screens
 
 <div>
-<img src = "https://github.com/vmbansal2001/MiWok/blob/master/App%20ScreenShots/Screenshot_1626290324.png" width = 250>
-<img src = "https://github.com/vmbansal2001/MiWok/blob/master/App%20ScreenShots/Screenshot_1626290331.png" width = 250>
-<img src = "https://github.com/vmbansal2001/MiWok/blob/master/App%20ScreenShots/Screenshot_1626290335.png" width = 250>
-<img src = "https://github.com/vmbansal2001/MiWok/blob/master/App%20ScreenShots/Screenshot_1626290338.png" width = 250>
+<img src = "https://github.com/vmbansal2001/MiWok/blob/master/App%20ScreenShots/Screenshot_1626290324.png" width = 210>
+<img src = "https://github.com/vmbansal2001/MiWok/blob/master/App%20ScreenShots/Screenshot_1626290331.png" width = 210>
+<img src = "https://github.com/vmbansal2001/MiWok/blob/master/App%20ScreenShots/Screenshot_1626290335.png" width = 210>
+<img src = "https://github.com/vmbansal2001/MiWok/blob/master/App%20ScreenShots/Screenshot_1626290338.png" width = 210>
 </div>
 
 ## Numbers Section
